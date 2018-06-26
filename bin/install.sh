@@ -1,5 +1,5 @@
 #!/bin/sh
 echo "packing ..."
-cd ..
+cd /root/project/springcloud/
 
 /java/apache-maven-3.0.5/bin/mvn package
