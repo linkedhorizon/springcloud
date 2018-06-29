@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "packing ..."
 cd ..
-echo 'package ...'
+
 mvn package
